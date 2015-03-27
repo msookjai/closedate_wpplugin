@@ -1,5 +1,6 @@
 # closedate_wpplugin
 plugin for wordpress
+
 == Installation ==
 
 1. Upload the entire `closedate` folder to the `/wp-content/plugins/` directory.
